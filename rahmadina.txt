@@ -1,0 +1,22 @@
+Rahma Dina Ariyanti
+2300757 (2A)
+
+kesimpulan
+
+jadi intinya, kita udah mengerti gimana cara mulai menggunakan Git untuk nge-track perubahan di proyek kita. 
+Awalnya, kita bikin repository Git baru buat proyek kita. 
+Terus, kita belajar cara nambahin file baru, ngubah file yang udah ada, 
+terus nyimpen snapshot perubahan itu dengan commit.
+
+Trus, kita juga udah paham tentang pentingnya punya cabang (branch) dalam proyek Git.
+Cabang ini bermanfaat banget buat ngembangin fitur baru tanpa ngacauin proyek utama.
+Terus, kita juga belajar gimana caranya gabungin perubahan dari satu cabang ke yang lain.
+
+Selain itu, kita juga udah tau cara ngatasin masalah kalo ada konflik pas ngemerge cabang.
+Biasanya ini terjadi kalo dua cabang ngubah bagian yang sama dari file.
+Tapi tenang, udah ada cara buat ngeliat dan ngegabungin perubahan-perubahan itu dengan baik.
+
+Dan yang terakhir, kita udah mengenal pull request.
+Ini cara yang keren buat ngasih tahu tim kita kalo kita udah ngerjain sesuatu dan siap buat digabungin ke proyek utama.
+Jadi, sebelum perubahan itu beneran masuk, tim bisa nge-review dulu.
+
