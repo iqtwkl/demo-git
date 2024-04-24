@@ -1,0 +1,29 @@
+Nama : Naila Melany
+NIM  : 2300512 (RPL-2A)
+
+Kesimpulan
+
+Git memiliki alur kerja yang terdiri dari serangkaian langkah yang diikuti oleh para pengembang untuk mengelola perubahan pada proyek mereka secara efisien.
+Alur kerja ini sangat penting untuk memanfaatkan semua fitur yang ditawarkan oleh sistem kontrol versi Git,
+seperti melacak perubahan, berkolaborasi dengan tim, dan memelihara riwayat lengkap proyek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
