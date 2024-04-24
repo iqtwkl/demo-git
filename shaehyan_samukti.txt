@@ -1,6 +1,0 @@
-Shaehyan Samukti
-RPL 2A
-2301461
-
-kesimpulan hari ini:
-dengan fitur push, pull, clone dari repository kita bisa melakukan pekerjaan secara bersama-sama atau kolaborasi. namun, jika ingin kolaborasi menggunakan git, harus menggunakan branch yang berbeda agar tidak terjadi conflict.

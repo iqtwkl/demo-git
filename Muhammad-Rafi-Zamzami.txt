@@ -1,4 +1,0 @@
-2301678
-Muhammad Rafi Zamzami
-
-Kesimpulannya, Git merupakan sebuah version control system yang berfungsi untuk mengontrol versi dari aplikasi yang telah kita buat. Dengan menggunakan Git, user dapat menghemat waktu serta meningkatkan efisiensi terhadap pengendalian versi aplikasi. Git juga dapat mempermudah kolaborasi serta kerjasama tim dalam mengerjakan suatu projek atau aplikasi. 

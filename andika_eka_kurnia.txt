@@ -1,4 +1,0 @@
-Andika Eka Kurnia
-2306033
-
-Simpulannya adalah bahwa Git dapat membantu tim pengembang dalam mengatur file-file yang diperlukan, terutama dalam melacak versi dan perubahan file. Meskipun konflik dapat terjadi saat melakukan perubahan file oleh beberapa pengembang pada lokasi yang sama, fitur seperti pembuatan branch baru dan pull request dapat membantu mengatasi masalah ini. Meskipun belajar Git bisa kompleks, terutama bagi pemula, menguasainya akan memberikan manfaat besar dalam pengembangan keterampilan yang dibutuhkan untuk karir di masa depan.

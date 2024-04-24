@@ -1,1 +1,0 @@
-kesimpulan nya kalo git bisa buat mudah kita berkolaborasi dalam suatu projek, namun memang butuh pemahaman lebih lanjut untuk itu, selain daripada itu git sangat membantu dan tracking setiap perubahan dalam projek 

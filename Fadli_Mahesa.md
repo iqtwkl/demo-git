@@ -1,3 +1,0 @@
-Fadli Mahesa
-RPL 2C
-2312397
