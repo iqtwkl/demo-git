@@ -8,3 +8,5 @@ Perubahan dari branch feature1
 perubahan
 
 ## FADLI MAHESA - RPL 2C - 2312397
+
+## Muhammad Nashirul Haq Resa - RPL 2A - 2304989
