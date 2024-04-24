@@ -1,3 +1,11 @@
 Nama	: Rafi Nazhmi Nugraha
 NIM	: 2301303
 Kelas	: RPL 2A
+
+Kesimpulan hari ini yang saya dapat:
+- cara untuk menyambung ke repositories yg udah di buat
+- cara bikin brench sendiri
+- Cara menambahkan file di brench kita
+- Ada konflik ketika kita pull file di brench yang sama dan di beritahu cara menanganinya
+- tapi lebih baik jika kita memiliki brench sendiri sendiri
+- yang terkahir di jelaskan tentang pull request dan cara membuat nya
