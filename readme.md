@@ -13,6 +13,10 @@ ubah
 perubahan
 
 ## FADLI MAHESA - RPL 2C - 2312397
+
+
+## Muhammad Nashirul Haq Resa - RPL 2A - 2304989
+
 ## ANDIKA EKA KURNIA - RPL 2A - 2306033
 test
 
@@ -28,5 +32,4 @@ test
 RPL 2C
 2312397
 
-## Muhammad Nashirul 
 ## bagas adhi 2307323
