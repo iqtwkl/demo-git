@@ -1,0 +1,6 @@
+Ariel Julians
+RPL - 2A
+2301191
+
+Kesimpulan
+Kesimpulan materi git kali ini yaitu git dapat membantu mahasiswa dalam mengerjakan project, berkolaborasi sehingga pekerjaan menjadi lebih efisien dan cepat dalam penggabungan code.
