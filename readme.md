@@ -22,3 +22,6 @@ test
 ## Fadli Mahesa
 RPL 2C
 2312397
+
+## Muhammad Nashirul 
+RPL 2A
