@@ -1,3 +1,6 @@
 Nama: Fatra Al Khawarizmi
 Kelas: 2A-RPL
 NIM: 2304335
+
+Kesimpulan: jadi, beberapa fungsionalitas yang dimiliki git berguna untuk teamwork seperti commit, push, pull, switch branch. kemudian kesimpulan hari ini merupakan dasaran sebagai teamwork kedepannya sehingga llocal branch yang di push ke master branch bisa disatukan.
+
