@@ -1,3 +1,5 @@
+# Pengumuman (Teman-Teman yang belum di add sebagai collabolator, silahkan create issue di link ini ya (https://github.com/iqtwkl/demo-git/issues/new))
+
 # PTI kelas 2A (maryam_silva)
 test
 ubah
