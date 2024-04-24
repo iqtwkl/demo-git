@@ -1,3 +1,6 @@
 Nama: Ghaisan
 NIM: 23000709
 Kelas: RPL2A
+
+Kesimpulan:
+Pada Perkuliahan kali ini diajarkan bagaimana cara menggunakan git mulai dari cara pull, push, commit dan masih banyak lagi
