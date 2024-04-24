@@ -1,4 +1,4 @@
-# PTI kelas 2A
+# PTI kelas 2A Ghaisan
 
 Test
 Test2
