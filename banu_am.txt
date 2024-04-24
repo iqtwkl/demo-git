@@ -1,3 +1,8 @@
 Banu Arief Muzaki
 2301033
 RPL 2A
+
+Kesimpulan :
+Git merupakan sebuah aplikasi yang mempermudah seorang developer dalam
+berbagi repository dengan mengandalkan bantuan server/ssh yang ada 
+dalam github
