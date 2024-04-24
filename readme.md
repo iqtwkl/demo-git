@@ -1,13 +1,8 @@
 # PTI kelas 2A (Muhamad Shandy Winata)
-<<<<<<< HEAD
->>>>>>> b252486237a2a269eee9f74d2be5751fdcd6a309
-=======
-# PTI kelas 2A (Iqbal Tawakal)
->>>>>>> b504f2cb805008cfa1a38286fd73b970a72ea829
 
-=======
+# PTI kelas 2A (Iqbal Tawakal)
+
 # PTI kelas 2A (Rafi Nazhmi Nugraha)
->>>>>>> b252486237a2a269eee9f74d2be5751fdcd6a309
 
 test  bagas yang edit 
 Test2
