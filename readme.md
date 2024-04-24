@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PTI kelas 2A (Muhamad Shandy Winata)
 
 # PTI kelas 2A (Iqbal Tawakal)
@@ -33,3 +34,23 @@ RPL 2C
 2312397
 
 ## bagas adhi 2307323
+=======
+# Maryam Silva - RPL 2A - 2309227
+
+Nama : Maryam Silva
+NIM  : 2309227
+Kelas: RPL-2A
+
+Kesimpulan:
+* Git digunakan untuk teamwork untuk mengelola perubahan file yang dilakukan oleh setiap individu
+
+Materi yang didapat pada pertemuan ini:
+* instalasi awal git bash
+* konfigurasi git dengan username dan gmail
+* konfigurasi ssh dan menambah akses pada github
+* melihat history menggunakan log
+* membuat branch sendiri dan menambahkan file
+* melakukan push ke repository atau menggunakan merge
+* menghandle conflict jika ada conflict
+
+>>>>>>> e3e38dc (Kesimpulan:)
