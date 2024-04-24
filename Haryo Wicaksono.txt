@@ -1,0 +1,23 @@
+Haryo Wicaksono
+2400078
+RPL 2 A
+
+Kesimpulan materi Hari ini:
+
+Git adalah alat yang membantu tim pengembang
+mengatur dan melacak perubahan pada file-file
+yang diperlukan. Ini sangat penting untuk mengikuti
+versi terbaru dan memahami apa yang telah diubah
+dalam sebuah file.
+
+Ketika ada dua atau lebih pengembang yang merubah
+bagian yang sama dari file, ini bisa menyebabkan konflik.
+Untuk mengatasi ini, Git memiliki fitur seperti pembuatan
+cabang baru untuk melakukan perubahan secara terpisah,
+kemudian menggabungkan perubahan tersebut
+melalui pull request & merge setelah selesai.
+
+Meskipun Git terlihat kompleks, terutama bagi pemula,
+namun mempelajari cara menggunakannya akan memberikan banyak
+manfaat, terutama untuk pengembangan kemampuan teknis yang
+berguna untuk karir di masa depan.

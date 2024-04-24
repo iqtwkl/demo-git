@@ -1,12 +1,35 @@
 # PTI kelas 2A (Muhamad Shandy Winata)
 
-Test
+# PTI kelas 2A (Iqbal Tawakal)
+
+# PTI kelas 2A (Rafi Nazhmi Nugraha)
+
+test  bagas yang edit 
 Test2
 Perubahan dari branch feature1
+ubah
 
 ## Indira
 perubahan
 
 ## FADLI MAHESA - RPL 2C - 2312397
 
+
 ## Muhammad Nashirul Haq Resa - RPL 2A - 2304989
+
+## ANDIKA EKA KURNIA - RPL 2A - 2306033
+test
+
+# Haryo Wicaksono - RPL 2A -2300078
+test
+
+# Muhammad Aiman Zikri - RPL 2A - 2307130
+test
+
+# Asep Nadhirin - RPL 2A - 2308165
+
+## Fadli Mahesa
+RPL 2C
+2312397
+
+## bagas adhi 2307323
