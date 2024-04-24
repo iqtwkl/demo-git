@@ -1,0 +1,9 @@
+Nurul Fauziyah Arifin
+2308231
+RPL 2A
+Kesimpulan :
+Jadi, cara kerja dasar Git melibatkan tahapan-tahapan untuk mengatur perubahan dalam proyek pengembangan software.
+Prosesnya dimulai dengan membuat branch baru untuk mengerjakan fitur baru atau memperbaiki masalah, lalu melakukan perubahan di branch tersebut,
+setelah itu merge perubahan itu ke branch utama setelah melalui pengecekan dan pengujian.
+Dengan mengikuti cara kerja ini, programmer dapat bekerja sama dengan efisien, melacak perubahan dengan baik, dan memastikan kode sumber proyek tetap terjaga.
+Memahami dan menerapkan cara kerja dasar Git dengan benar sangat penting untuk memaksimalkan produktivitas dan kolaborasi dalam pengembangan software modern.
