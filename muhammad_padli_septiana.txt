@@ -1,3 +1,5 @@
 Muhammad Padli Septiana
 2302061
 RPL 2A
+
+Kesimpulannya adalah memakai git dapat membantu dalam pengembangan software. dalam git juga terdapat branch. branch ini membantu untuk meminimalisir konflik yang terjadi saat pengembangan. branch ini dapat membantu menggabungkan pekerjaan dari banyak orang. 
