@@ -1,4 +1,4 @@
-# PTI kelas 2A
+# PTI kelas 2A (Rafi Nazhmi Nugraha)
 
 Test
 Test2
