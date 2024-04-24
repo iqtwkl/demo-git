@@ -1,0 +1,18 @@
+Muhamad Shandy Winata
+RPL-2A
+2305848
+
+Kesimpulan hari ini:
+Git bisa membantu tim developer dalam mengorganisir file-file yang diperlukan
+terutama dalam hal pelacakan versi dan perubahan dalam suatu file.
+
+Dalam melakukan perubahan file bisa terjadi konflik seperti dua anggota
+developer yang melakukan perubahan pada lokasi/file yang sama.
+
+Hal ini bisa dimitigasi dengan beberapa fitur seperti pembuatan branch
+baru secara paralel lalu melakukan pull request & merge ketika perubahan
+sudah selesai.
+
+Meskipun dengan segala kompleksitasnya terutama untuk pemula seperti saya,
+menguasai penggunaan Git akan sangat rewarding terutama dalam pengembangan
+hardskill untuk karir saya nantinya.
