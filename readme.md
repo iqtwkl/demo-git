@@ -1,4 +1,4 @@
-# PTI kelas 2A
+# PTI kelas 2A (Muhamad Shandy Winata)
 
 Test
 Test2
