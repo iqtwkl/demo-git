@@ -1,33 +1,35 @@
 # GIT & GITHUB DEMONSTRATION
-## Dosen Praktisi - Iqbal Tawakal
+### Dosen Praktisi - Iqbal Tawakal
 
-### Topik Pembahasan
-> Instalasi Git
-> Penggunaan Git Bash
+## Topik Pembahasan
+
+### Instalasi Git
+
+### Penggunaan Git Bash
 
 Git bash adalah CLI (command line interface) digunakan untuk melakukan operasi-operasi dalam git agar lebih mudah.
 
-> Konfigurasi Git
+### Konfigurasi Git
  
-> Konfigurasi SSH
+### Konfigurasi SSH
 SSH digunakan agar data yang dikirm aman
 
-> Menambahkan SSH pada GitHub
+### Menambahkan SSH pada GitHub
 
-> Membuat repository
+### Membuat repository
 
 Repository untuk version control (& github untuk version control & kolaborasi)
 
-> Membuat branch
+### Membuat branch
 
 Salinan dari main agar file di main tidak hilang/hapus/bekerja dengan beda
 
-> Commit git
+### Commit git
 
 Menjadikan program sekarang seperti di draft
 
-> Push git
+### Push git
 
 Memasukkan commit ke dalam github
 
-> Conflict handling
+### Conflict handling
