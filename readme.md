@@ -12,3 +12,5 @@ test
 
 # Haryo Wicaksono - RPL 2A -2300078
 test
+
+# Muhammad Aiman Zikri - RPL 2A - 2307130
