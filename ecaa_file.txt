@@ -2,3 +2,5 @@ Raden Arya Mucharom Dwi Mahesa
 Mahasiswa
 2301720
 RPL-2A
+
+kesimpulan: 1: save: Secara keseluruhan, Git Bash adalah alat yang sangat berharga bagi developer yang bekerja dengan Git di Windows. Git juga Kompatibilitas sehingga pengguna dapat menggunakannya untuk bekerja dengan berbagai proyek Git dan Git juga perangkat lunak gratis dan open source, sehingga dapat diunduh dan digunakan secara bebas oleh siapa saja.
