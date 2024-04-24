@@ -1,6 +1,6 @@
 # PTI kelas 2A
 
-Test
+test  bagas yang edit 
 Test2
 Perubahan dari branch feature1
 
