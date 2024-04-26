@@ -1,0 +1,5 @@
+Nama : Rifiani Tasrifin
+NIM : 2308800
+Kelas : 2A RPL
+
+Kesimpulan : Git membantu kita untuk berkolaborasi dan bekerja lebih efisien sebagai programmer
