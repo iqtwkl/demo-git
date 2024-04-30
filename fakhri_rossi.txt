@@ -1,3 +1,7 @@
 Fakhri Rossi
 RPL 2C
 2301903
+
+Kesimpulan: Git merupakan Version Control System. Dengan menggunakan Git, kita bisa menyimpan, menelusuri, dan berbagai tindakan lainnya terkait perubahan pada file.
+Github merupakan platform berbasis web yg memungkinkan pengguna utk menyimpan repository secara online. Repository itu seperti 'wadah' utk menyimpan project file dan segala perubahannya.
+Melalui Git dan Github, user bisa saling berkolaborasi dalam satu project tanpa harus memindahkan data secara manual, dan pengerjaannya pun bisa teratur/tidak saling bentrok karena ada fitur branch.
