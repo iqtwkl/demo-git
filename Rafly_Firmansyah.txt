@@ -1,7 +1,8 @@
 Nama    : Rafly Firmansyah
 Kelas   : RPL 2C
 NIM     : 2310601
-
+Tanggal : 24 April 2024
 
 Kesimpulan kelas hari ini : 
 Mempelajari bagaimana melakukan inialisasi git untuk membuat repositori, mempelajari alur pengerjaan dasar menggunakan git seperti membuat branch dan melakukan mergering hingga pull request. Tools git memang umum digunakan oleh para programmer khususnya untuk melakukan menegemen proyek ataupun product yang akan atau sedang dibangun.
+
