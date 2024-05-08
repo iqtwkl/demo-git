@@ -1,4 +1,4 @@
 --risti Sabila -----
 Kesimpulan hari ini belajar tentang cara memakai git cara ngepush, membuat branch dll
  membuat repository yang ada pada file lokal dan berlokasi di folder git serta kita mengetahui 
-Cara membuat git yang betull 
+Cara membuat git yang betul.
