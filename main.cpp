@@ -7,5 +7,9 @@ int main(int argc, char const *argv[])
     cout << "mshandywinata" << endl;
     cout << "rafi nazhmi" << endl;
     cout << "christian";
+    cout << "hello, world!" << endl;
+
+    cout << "Hello gesssasioaioasvkaivn\n";
+    cout << "achmad soewardi"<<endl;:
     return 0;
 }
