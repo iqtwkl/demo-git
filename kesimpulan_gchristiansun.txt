@@ -1,0 +1,12 @@
+Nama: Gregorius Christian Sunaryo
+Kelas: RPL 2A
+NIM: 2301426
+
+kesimpulan:
+git digunakan pada proses pengembangan perangkat lunak untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak, contoh fungsi git,
+1. Kontrol versi terdistribusi
+2. Branching dan Merging
+3. Kolaborasi
+4. Riwayat perubahan
+5. Pengelolaan remote repository
+6. Integrasi dengan alat lain.
